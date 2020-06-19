@@ -13,10 +13,10 @@ jobs:
         env:
           ado_token: "${{ secrets.ADO_PERSONAL_ACCESS_TOKEN }}"
           github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
-          ado_organization: "girishshet0921"
-          ado_project: "NEWPROJECT"
-          ado_area_path: "NEWPROJECT"
-          ado_wit: "User Story"
+          ado_organization: "canarys4"
+          ado_project: "Partsunlimited2"
+          ado_area_path: "Partsunlimited2"
+          ado_wit: "Product Backlog Item"
           ado_new_state: "New"
           ado_close_state: "Closed"
           ado_bypassrules: true
